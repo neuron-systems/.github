@@ -58,10 +58,6 @@ We explore, design, and build systems in the following domains:
 
 ## 🌱 **Current Initiatives**
 
-### **🔧 Neuron Toolkit**
-
-A set of tools to bootstrap 5G Core/RAN labs (including automation scripts, monitoring dashboards, and helper utilities).
-
 ### **🎮 SlicePilot – Latency-Optimized Gaming Slice**
 
 A PoC demonstrating closed-loop slice optimization using AI-based anomaly analysis and adaptive policy tuning.
@@ -72,9 +68,9 @@ A PoC demonstrating closed-loop slice optimization using AI-based anomaly analys
 
 Neuron Systems is formed by engineers with expertise across:
 
-* **5G Core (AMF, SMF, UPF)**
+* **5G Core **
 * **RAN systems and real-time operations**
-* **C++ and Go microservices**
+* **C++, Go, Python and Rust microservices**
 * **AI/ML engineering**
 * **Cloud-native DevOps and Kubernetes**
 
@@ -89,7 +85,7 @@ We welcome contributions in the areas of:
 * Telecom / 5G Core & RAN
 * Cloud-native architectures (Kubernetes, service mesh, operators)
 * AI/ML applied to large-scale network systems
-* Go, C++, Python tooling
+* Go, C++, Rust, Python tooling
 * Data engineering and observability
 
 If you're interested in collaborating, feel free to:
