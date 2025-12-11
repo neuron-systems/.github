@@ -68,7 +68,7 @@ A PoC demonstrating closed-loop slice optimization using AI-based anomaly analys
 
 Neuron Systems is formed by engineers with expertise across:
 
-* **5G Core **
+* **5G Core**
 * **RAN systems and real-time operations**
 * **C++, Go, Python and Rust microservices**
 * **AI/ML engineering**
